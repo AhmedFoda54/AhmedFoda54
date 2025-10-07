@@ -1,8 +1,5 @@
 # Hi there, I'm Ahmed Ibrahim! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFoda54&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="AhmedFoda54's GitHub Stats" />
-</p>
 
 I'm a passionate and dedicated **Data Science and AI student** from Egypt 🇪🇬, currently specializing in Machine Learning, Deep Learning, Algorithms, and Data Analysis at **Zewail City of Science and Technology** 🎓.
 
