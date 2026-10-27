@@ -32,7 +32,5 @@ AI engineering work — from search & retrieval and computer vision to productio
 
 **More of my AI work:** [Representation Learning AE/VAE](https://github.com/AhmedFoda54/Representation-Learning-with-Autoencoders-AE-VAE-) · [MLOps](https://github.com/AhmedFoda54/MLOps) · [Arabic Car License Plate Detection — YOLOv11 + OCR](https://github.com/AhmedFoda54/sic-dl-Arabic-Car-License)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AhmedFoda54&icon=0&color=0)](https://visitcount.itsvg.in)
