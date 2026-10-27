@@ -1,70 +1,100 @@
-# Hi there, I'm Ahmed Ibrahim! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi, I'm Ahmed Ibrahim! 👋
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="Waving hand" />
+</p>
 
-I'm a passionate and dedicated **Data Science and AI Graduate** from Egypt 🇪🇬, currently specializing in Machine Learning, Deep Learning, GenAI, and Data Analysis at **Zewail City of Science and Technology** 🎓.
+I'm a passionate and dedicated Data Science and AI graduate from Egypt 🇪🇬, currently focused on Machine Learning, Deep Learning, Generative AI, and Data Analysis.
 
-I love diving deep into data, building intelligent systems, and exploring the fascinating world of algorithms! 💡
+I enjoy building intelligent systems, solving real-world problems with data, and exploring the intersection of algorithms, analytics, and software engineering.
 
-## 🚀 About Me
+## About Me
 
-*   🧠 Studied Data Science & AI, focusing on ML, algorithms, and data analysis.
-*   💻 Proficient in Python, Java, C++, and various data science libraries.
-*   📈 Experienced in building projects related to Machine Learning, Deep Learning, NLP, Computer Vision, and Software Engineering.
-*   🌐 Actively contributing to projects and exploring new technologies.
-*   🤝 Always open to collaborating on interesting projects and learning new things!
+- 🧠 Graduate in Data Science & AI with a strong interest in ML, deep learning, and algorithms.
+- 💻 Skilled in Python, Java, and C++, with experience across data science and software engineering workflows.
+- 📊 Experienced in machine learning, deep learning, NLP, computer vision, and data analysis projects.
+- 🌐 Interested in building impactful applications and continuously learning new technologies.
+- 🤝 Open to collaboration, knowledge sharing, and exciting opportunities in AI and data-driven products.
 
-## 🛠️ My Tech Stack & Skills
+## Tech Stack
 
-Here are some of the technologies and concepts I work with:
+### Languages
+- Python 🐍
+- Java ☕
+- C++
+- SQL
+- HTML
 
-*   **Languages:** Python 🐍, Java ☕, C++
-*   **Data Science & ML/DL:** Scikit-learn, TensorFlow/Keras, PyTorch, Pandas, NumPy, Matplotlib, Seaborn, NLP (TF-IDF, BM25, BERT, Elmo ), Computer Vision (OpenCV, EasyOCR, YOLO), Vector Quantization, DPCM
-*   **Core Concepts:** Data Structures & Algorithms 📊, Object-Oriented Programming, Software Engineering Principles
-*   **Web:** HTML
-*   **Tools:** Git, GitHub, Jupyter Notebooks, Kaggle
+### Data Science & AI
+- Scikit-learn
+- TensorFlow / Keras
+- PyTorch
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- NLP: TF-IDF, BM25, BERT, ELMo
+- Computer Vision: OpenCV, EasyOCR, YOLO
+
+### Core Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Software Engineering Principles
+- Model Evaluation & Optimization
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- Kaggle
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFoda54&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
-## ✨ Featured Projects
-Here are a few projects I'm proud of:
+## Featured Projects
 
-1.  **[Cakery](https://github.com/AhmedFoda54/Cakery)** 🎂  
-    *   An online bakery platform where customers can browse, customize, and order cakes and pastries, with features for store staff to manage logistics and operations.
-    *   Supports customer registration, order management, and product inventory.  
-    *   *Keywords: Flask, OAUTH, JWT, Object-Oriented Programming, Design Patterns, Postgressql*
+### 1. Cakery 🎂
+An online bakery platform where customers can browse, customize, and order cakes and pastries. It includes store operations, customer registration, order management, and inventory support.
 
-2.  **[Data Compression Techniques](https://github.com/AhmedFoda54/Data-Compression-Techniques)** 💾  
-    *   Implementations of various lossless (Huffman, Adaptive Huffman, LZ) and lossy (DPCM, Trained VQ) data compression techniques in Java.  
-    *   Includes detailed implementations, reports, and image reconstruction evaluation.  
-    *   *Keywords: Data Compression, Java, Huffman Coding, LZ, DPCM, Vector Quantization*
+- Technologies: Flask, OAuth, JWT, OOP, Design Patterns, PostgreSQL
+- Repository: [AhmedFoda54/Cakery](https://github.com/AhmedFoda54/Cakery)
 
-3.  **[sic-dl-Arabic-Car-License](https://github.com/AhmedFoda54/sic-dl-Arabic-Car-License)** 🚗  
-    *   A deep learning project for detecting and recognizing Arabic car license plates using YOLOv8 and Tesseract OCR.  
-    *   Includes preprocessing, annotation, training, and video inference for real-time recognition.  
-    *   *Keywords: Deep Learning, Computer Vision, YOLOv8, OCR, Tesseract, Python, Arabic NLP*
+### 2. Data Compression Techniques 💾
+A Java-based project implementing multiple data compression algorithms, including lossless and lossy techniques such as Huffman coding, LZ, DPCM, and vector quantization.
 
-4.  **[sic-ml-us-airline-delays](https://github.com/AhmedFoda54/sic-ml-us-airline-delays)** ✈️  
-    *   A machine learning project predicting flight delays using US airline data.  
-    *   Explores preprocessing, feature engineering, model training (Random Forest, XGBoost), and evaluation.  
-    *   *Keywords: Machine Learning, Data Analysis, XGBoost, Random Forest, Python, Pandas, Scikit-learn*
+- Technologies: Java, Data Compression, Huffman Coding, LZ, DPCM, Vector Quantization
+- Repository: [AhmedFoda54/Data-Compression-Techniques](https://github.com/AhmedFoda54/Data-Compression-Techniques)
 
-*(Check out my repositories tab for more!)*
+### 3. Arabic Car License Plate Detection 🚗
+A deep learning project for detecting and recognizing Arabic car license plates using YOLOv8 and Tesseract OCR.
 
-## 🏆 GitHub Achievements
+- Technologies: Python, Deep Learning, Computer Vision, YOLOv8, OCR, Tesseract
+- Repository: [AhmedFoda54/sic-dl-Arabic-Car-License](https://github.com/AhmedFoda54/sic-dl-Arabic-Car-License)
 
-<p align="left">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60px" alt="YOLO Achievement" title="YOLO (You Only Look Once )">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60px" alt="Quickdraw Achievement" title="Quickdraw">
-  <!-- Add other achievement badges if earned -->
+### 4. US Airline Delays Prediction ✈️
+A machine learning project focused on forecasting flight delays using US airline data, with data preprocessing, feature engineering, and multiple model evaluations.
+
+- Technologies: Python, Machine Learning, XGBoost, Random Forest, Pandas, Scikit-learn
+- Repository: [AhmedFoda54/sic-ml-us-airline-delays](https://github.com/AhmedFoda54/sic-ml-us-airline-delays)
+
+See more in my repositories tab for additional projects and experiments.
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedFoda54&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
-## 📫 Let's Connect!
+## Achievements
 
-Find me on other platforms:
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO Achievement" title="YOLO (You Only Look Once)" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw Achievement" title="Quickdraw" />
+</p>
 
-*   **LinkedIn:** [linkedin.com/in/ahmed-abdelghany-2b4621253](https://www.linkedin.com/in/ahmed-abdelghany-2b4621253 )
-*   **Kaggle:** [kaggle.com/ahmedabdelghagny](https://www.kaggle.com/ahmedabdelghagny )
+## Let's Connect
+
+- LinkedIn: [Ahmed Abdelghany](https://www.linkedin.com/in/ahmed-abdelghany-2b4621253)
+- Kaggle: [ahmedabdelghagny](https://www.kaggle.com/ahmedabdelghagny)
 
 Thanks for visiting my profile! 😊
