@@ -12,15 +12,25 @@
 ![](https://streak-stats.demolab.com?user=AhmedFoda54&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedFoda54&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AhmedFoda54&theme=juicyfresh&no-frame=true&no-bg=false&margin-w=4)
+## 🏆 Achievements
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="60" alt="Pull Shark achievement" title="Pull Shark ×2" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="60" alt="YOLO achievement" title="YOLO" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="60" alt="Quickdraw achievement" title="Quickdraw" />
+</p>
+
+Pull Shark ×2 · YOLO · Quickdraw
 
 ## 🚀 Featured Projects:
+AI engineering work — from search & retrieval and computer vision to production ML pipelines.
+
 | [Advanced Search Engine](https://github.com/AhmedFoda54/Advanced-Search-Engine) | [Electro-Pi Technical Task](https://github.com/AhmedFoda54/Electro-Pi-Technical-Task) |
 |---|---|
 | ![](https://github-readme-stats.vercel.app/api/pin/?username=AhmedFoda54&repo=Advanced-Search-Engine&theme=dark) | ![](https://github-readme-stats.vercel.app/api/pin/?username=AhmedFoda54&repo=Electro-Pi-Technical-Task&theme=dark) |
 | [Deep-Fake Classification](https://github.com/AhmedFoda54/Deep-Fake-Classification) | [MLOps CI-CD](https://github.com/AhmedFoda54/MLOps_CI-CD) |
 | ![](https://github-readme-stats.vercel.app/api/pin/?username=AhmedFoda54&repo=Deep-Fake-Classification&theme=dark) | ![](https://github-readme-stats.vercel.app/api/pin/?username=AhmedFoda54&repo=MLOps_CI-CD&theme=dark) |
+
+**More of my AI work:** [Representation Learning AE/VAE](https://github.com/AhmedFoda54/Representation-Learning-with-Autoencoders-AE-VAE-) · [MLOps](https://github.com/AhmedFoda54/MLOps) · [Arabic Car License Plate Detection — YOLOv11 + OCR](https://github.com/AhmedFoda54/sic-dl-Arabic-Car-License)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
