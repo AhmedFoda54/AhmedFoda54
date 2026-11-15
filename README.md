@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm @AhmedFoda54 — Ahmed Ibrahim<br>👀 I'm interested in Machine Learning, Deep Learning & Generative AI<br>🌱 I'm currently learning MLOps, LLM/RAG pipelines & agentic AI<br>🎓 Data Science & AI graduate from Zewail City, Egypt 🇪🇬<br>📊 10 original projects + 6 forks on GitHub<br>📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdelghany-2b4621253) or [Kaggle](https://www.kaggle.com/ahmedabdelghagny)
+👋 Hi, I'm @AhmedFoda54 — Ahmed Ibrahim<br>👀 I'm interested in Software Engineering Machine Learning, Deep Learning & Generative AI<br>🌱 I'm currently learning MLOps, LLM/RAG pipelines & agentic AI<br>🎓 Data Science & AI graduate from Zewail City, Egypt 🇪🇬<br>📊 10 original projects + 6 forks on GitHub<br>📫 Reach me on [LinkedIn](https://www.linkedin.com/in/ahmed-abdelghany-2b4621253) or [Kaggle](https://www.kaggle.com/ahmedabdelghagny)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-abdelghany-2b4621253) [![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/ahmedabdelghagny)
